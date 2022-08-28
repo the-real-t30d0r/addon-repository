@@ -1,15 +1,11 @@
 {
     "name": "CUPS Print Server",
-    "version": "1.0.0-alpha.25",
+    "version": "latest",
     "slug": "cups",
     "description": "A CUPS print server with Avahi installed",
-    "url": "https://github.com/ncarr/addon-repository",
+    "url": "https://github.com/the-real-t30dor/addon-repository",
     "arch": [
-        "armhf",
-        "armv7",
-        "aarch64",
-        "amd64",
-        "i386"
+        "armv7"
     ],
     "startup": "application",
     "boot": "auto",
