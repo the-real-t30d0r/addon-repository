@@ -34,5 +34,5 @@
         "keyfile": "str",
         "require_ssl": "bool"
     },
-    "image": "tigerj/cups-airprint"
+    "image": "ydkn/cups"
 }
